@@ -22,8 +22,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     {"name": "right side",
         "x": 0.65,
@@ -48,8 +48,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     {
         "x": 0.8,
@@ -74,8 +74,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     {
         "x": 0.85,
@@ -100,8 +100,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     {
         "x": 0.8,
@@ -126,8 +126,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     {
         "x": 0.65,
@@ -152,8 +152,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     
     {"name": "left side",
@@ -179,8 +179,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     {
         "x": 0.2,
@@ -205,8 +205,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     {
         "x": 0.17,
@@ -231,8 +231,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     {
         "x": 0.25,
@@ -257,8 +257,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     {
         "x": 0.35,
@@ -283,8 +283,8 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     },
     {   "name": "lowest sphere",
         "x": 0.5,
@@ -309,7 +309,7 @@
             0.3
         ],
         "n": 3,
-        "transparency": 0.3,
-        "ior": 2
+        "transparency": 0.1,
+        "ior": 1.4
     }
 ]
